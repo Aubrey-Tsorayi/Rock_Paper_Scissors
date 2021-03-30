@@ -1,0 +1,11 @@
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/bin/Debug/netcoreapp3.1/Rock_Paper_Scissors
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/bin/Debug/netcoreapp3.1/Rock_Paper_Scissors.deps.json
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/bin/Debug/netcoreapp3.1/Rock_Paper_Scissors.runtimeconfig.json
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/bin/Debug/netcoreapp3.1/Rock_Paper_Scissors.runtimeconfig.dev.json
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/bin/Debug/netcoreapp3.1/Rock_Paper_Scissors.dll
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/bin/Debug/netcoreapp3.1/Rock_Paper_Scissors.pdb
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/obj/Debug/netcoreapp3.1/Rock_Paper_Scissors.csprojAssemblyReference.cache
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/obj/Debug/netcoreapp3.1/Rock_Paper_Scissors.AssemblyInfoInputs.cache
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/obj/Debug/netcoreapp3.1/Rock_Paper_Scissors.AssemblyInfo.cs
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/obj/Debug/netcoreapp3.1/Rock_Paper_Scissors.dll
+/home/th3_d3v/Documents/Projects/C#Projects/Rock_Paper_Scissors/obj/Debug/netcoreapp3.1/Rock_Paper_Scissors.pdb
